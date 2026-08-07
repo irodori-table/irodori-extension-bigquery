@@ -381,7 +381,7 @@
   },
   "source": {
     "marketplaceId": "irodori.bigquery",
-    "repository": "https://github.com/hjosugi/irodori-extension-bigquery",
+    "repository": "https://github.com/irodori-table/irodori-extension-bigquery",
     "knowledgeEngineStatus": "wired",
     "adapter": "db/bigquery.rs",
     "adapterSha256": "b950c8bc939a571335e338ada86ed96aa51a50a8e8d55ee36b6047958afb6573",
